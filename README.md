@@ -43,5 +43,7 @@ The last part of the URL is the character ID: ![Picture lol](https://camo.github
 
 !!! SEE IMAGES DOESN'T WORK AS OF RIGHT NOW !!!
 
+ALSO A REMINDER; DO NOT USE THIS ON YOUR MAIN ACCOUNT; THIS IS A SELFBOT; SELFBOTS ARE AGAINST TOS!!!!
+
 Example how the bot looks like:
 ![Very epic bot](https://cdn.discordapp.com/attachments/838173242124402708/1170625193274769458/image.png)
