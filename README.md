@@ -4,7 +4,7 @@ Discord selfbot chatbot fully written in nodej, powered by c.ai.
 
 if you want to use Guest login Instead of token login, set the loginType in config.json to the string "Guest" instead of "Token"
 
-![example how to do it](https://raw.githubusercontent.com/linemaster2/discord-selfbot-chatbot/main/images/image.png)
+![example how to do it](https://cdn.discordapp.com/attachments/838173242124402708/1170625285725638766/image.png)
 
 
 To run this you will need nodejs of course and the discord.js-selfbot-v13 library, so run 
