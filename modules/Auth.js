@@ -11,9 +11,9 @@ class Authenticator {
 
   async authenticate(token) {
     try {
-      if (config.login === "Token") {
+      if (config.loginType === "Token") {
         await this.caiClient.authenticateWithToken(token);
-      } else if (config.login === "Guest") {
+      } else if (config.loginType === "Guest") {
         await this.caiClient.authenticateAsGuest();
       }
       
