@@ -1,6 +1,6 @@
 {
     "token": "your discord token goes here (alt recommended, main can get termed)",
-    "login": "Token",
+    "loginType": "Token",
     "channel": "channel id the bot should talk in",
     "characterId": "characterid of the character",
     "characterAIToken": "character ai token (not needed if login is set to guest)",
