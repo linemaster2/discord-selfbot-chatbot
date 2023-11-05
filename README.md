@@ -10,6 +10,6 @@ npm i discord.js-selfbot-v13@latest
 ```
 in your terminal.
 
-i did not make the node_characterai module, full credits go the (https://github.com/realcoloride)[owner]
+I did not make the node_characterai module; full credits go to [owner](https://github.com/realcoloride).
 
-you can find the original module on this (https://www.npmjs.com/package/node_characterai)[link] even tho i didnt really modify anything.
+You can find the original module on this [link](https://www.npmjs.com/package/node_characterai), even though I didn't really modify anything.
