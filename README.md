@@ -16,3 +16,6 @@ in your terminal.
 I did not make the node_characterai module; full credits go to [owner](https://github.com/realcoloride).
 
 You can find the original module on this [link](https://www.npmjs.com/package/node_characterai), even though I didn't really modify anything.
+
+Example how the bot looks like:
+![Very epic bot](https://cdn.discordapp.com/attachments/838173242124402708/1170625193274769458/image.png)
