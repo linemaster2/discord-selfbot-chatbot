@@ -41,5 +41,7 @@ For example, if you go to the chat page of the character Test Character you will
 
 The last part of the URL is the character ID: ![Picture lol](https://camo.githubusercontent.com/4dd4c40b7ac315e0b2a0342aeea3ad36774fd1edd6c76f1e6f00dd624596abb5/68747470733a2f2f692e696d6775722e636f6d2f6e643836664e342e706e67)
 
+!!! SEE IMAGES DOESN'T WORK AS OF RIGHT NOW !!!
+
 Example how the bot looks like:
 ![Very epic bot](https://cdn.discordapp.com/attachments/838173242124402708/1170625193274769458/image.png)
