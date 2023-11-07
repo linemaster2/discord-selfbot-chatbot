@@ -7,9 +7,9 @@ if you want to use Guest login Instead of token login, set the loginType in conf
 ![example how to do it](https://cdn.discordapp.com/attachments/838173242124402708/1170625285725638766/image.png)
 
 
-To run this you will need nodejs of course and the discord.js-selfbot-v13 library, so run 
+To run this you will need nodejs of course and these modules: discord.js-selfbot-v13, axios, jimp, puppeteer-extra, uuid, puppeteer-extra-plugin-stealth so run 
 ```
-npm i discord.js-selfbot-v13@latest
+npm i discord.js-selfbot-v13@latest && npm i axios@latest && npm i jimp@latest && npm i puppeteer-extra@latest && npm i uuid@latest && npm i puppeteer-extra-plugin-stealth@latest
 ```
 in your terminal.
 
